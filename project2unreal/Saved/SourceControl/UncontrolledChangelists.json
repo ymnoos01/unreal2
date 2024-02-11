@@ -12,7 +12,9 @@
 				"C:/Users/WebSpider/Documents/unreal2/project2unreal/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/WebSpider/Documents/unreal2/project2unreal/Content/blueprints/BP_Elevator.uasset",
 				"C:/Users/WebSpider/Documents/unreal2/project2unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/ZH/LG800G292OHEH059OU37M8.uasset",
-				"C:/Users/WebSpider/Documents/unreal2/project2unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/DF/EHYQQ6BGF7A2I1YS8XY7V3.uasset"
+				"C:/Users/WebSpider/Documents/unreal2/project2unreal/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/DF/EHYQQ6BGF7A2I1YS8XY7V3.uasset",
+				"C:/Users/WebSpider/Documents/unreal2/project2unreal/Content/blueprints/BP_Lose.uasset",
+				"C:/Users/WebSpider/Documents/unreal2/project2unreal/Content/widgets/WP_YouLost.uasset"
 			]
 		}
 	]
